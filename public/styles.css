@@ -1,15 +1,21 @@
+:root{
+  background-color: #EDF5E1;
+}
+
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: 'Nunito', sans-serif;
+  
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: 'Nunito', sans-serif;
 }
 
 table {
   width: 100%;
+  font-family: 'Nunito', sans-serif;
 }
 
 td, th {
@@ -30,16 +36,19 @@ tr:nth-child(even) {
   margin: 0 auto;
   max-width: 825px;
   text-align: center;
+  
 }
 
 .total {
   font-size: 150%;
   text-decoration: underline;
+  font-family: 'Nunito', sans-serif;
 }
 
 .form {
   margin-top: 25px;
   width: 100%;
+  font-family: 'Nunito', sans-serif;
 }
 
 .transactions {
@@ -48,4 +57,5 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+  font-family: 'Nunito', sans-serif;
 }
