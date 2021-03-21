@@ -19,7 +19,7 @@ npm install
 This web application can be accessed at https://the-budget-tracking.herokuapp.com/. 
 
 ## Contribution
-Ahmed
+Ahmed Ali
 
 ## Test
 npm run test
